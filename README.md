@@ -1,14 +1,7 @@
-
-
-
-
-
-
 <!DOCTYPE html>
 
 <html lang="en">
  
-
 <h1>Cortex Plus Heroic Character Sheet</h1>
 
 <p>
